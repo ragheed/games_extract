@@ -24,11 +24,11 @@ you can test functionality by the following links:
 
 1. Step 1 
 for step one please open the following URL in your browser (or curl/wget it) it will return a JSON array of objects which include game name and score extracted from the site
-(http://localhost:8888/games)
+`http://localhost:8888/games`
 
 2. Step 2
 for step 2 please use the following link (image name is an example) it will return a JSON object which includes game name and score. 
-(http://localhost:8888/games/Toybox%20Turbos)
+`http://localhost:8888/games/Toybox%20Turbos`
 
 ## Note:
 * requesting a non existing game will return 404 HTTP status code with no responce.
