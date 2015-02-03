@@ -31,5 +31,5 @@ for step 2 please use the following link (image name is an example) it will retu
 `http://localhost:8888/games/Toybox%20Turbos`
 
 ## Note:
-* requesting a non existing game will return 404 HTTP status code with no responce.
+* requesting a non existing game will return 404 HTTP status code with no responce. For example `http://localhost:8888/games/test_game`
 * I changed the base url to (http://www.metacritic.com/game/playstation-3?topgames-sort=metascore) just in case the default behaviour of the site was changed to display the other tab by default
