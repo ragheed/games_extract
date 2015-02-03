@@ -7,14 +7,17 @@ This app will parse the HTML for the â€œTop Playstation 3 Games (By Metascore)â€
 * bundle
 
 ## Installation:
-* `git clone https://github.com/ragheed/games_extract.git`
+Please run the following commands:
 * `gem install bundle` (if not installed)
+* `git clone https://github.com/ragheed/games_extract.git`
 * `bundle install` (in the app folder)
 
 ## Running the tests:
+Please run the following command:
 * `rspec spec` (in the app folder)
 
 ## Running the app:
+Please run the following command:
 * `bundle exec ruby app.rb` or just `ruby app.rb` (in the app folder)
 
 ## Description:
